@@ -17,7 +17,7 @@ try:
     from requests.exceptions import ConnectionErr>
 except ImportError:
     os.system('pip2 install requests')
-    os.system('python2 MOHSIN.py')#
+    os.system('python2 MOHSIN.py')
 
 from os import system
 from time import sleep
