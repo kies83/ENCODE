@@ -1,8 +1,3 @@
-# uncompyle6 version 3.7.4
-# Python bytecode 2.7
-# Decompiled from: Python 2.7.18 (default, Aug  8>
-# [GCC 4.2.1 Compatible Android (6454773 based on>
-# Embedded file name: dg
 P = '\x1b[97;1m'
 M = '\x1b[91;1m'
 H = '\x1b[92;1m'
