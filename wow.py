@@ -6,19 +6,7 @@
 P = '\x1b[97;1m'
 M = '\x1b[91;1m'
 H = '\x1b[92;1m'
-K = '\x1b[93;1m'
-B = '\x1b[94;1m'
-U = '\x1b[95;1m'
-O = '\x1b[93;1m'
-N = '\x1b[0m'
-try:
-    import os, sys, time, platform, datetime, ran>
-    from multiprocessing.pool import ThreadPool
-    from requests.exceptions import ConnectionErr>
-except ImportError:
-    os.system('pip2 install requests')
-    os.system('python2 MOHSIN.py')# uncompyle6 version 3.7.4
-# Python bytecode 2.7
+K = # Python bytecode 2.7
 # Decompiled from: Python 2.7.18 (default, Aug  8>
 # [GCC 4.2.1 Compatible Android (6454773 based on>
 # Embedded file name: dg
